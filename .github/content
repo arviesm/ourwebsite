@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Famous Fourth</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+    body {font-family: "Times New Roman", Georgia, Serif; background-color: #f3e5d9;}
+    h1, h2, h3, h4, h5, h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    }
+    </style>
+    </head>
+    <body>
+
+<div class="w3-top">
+<div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button">Famous Fourth</a>
+<div class="w3-right w3-hide-small">
+    <a href="#about" class="w3-bar-item w3-button">About</a>
+    <a href="#menu" class="w3-bar-item w3-button">Menu</a>
+    <a href="#order" class="w3-bar-item w3-button">Order</a> <!-- Added Order link -->
+    <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+    </div>
+    </div>
+    </div>
+
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
+    <img class="w3-image" src="ff.jpg" alt="Famous Fourth logo" width="1600" height="100">
+<div class="w3-display-bottomleft w3-padding-large w3-opacity">
+    <h1 class="w3-xxlarge">Enjoy</h1>
+    </div>
+    </header>
+    <div class="w3-content" style="max-width:1100px">
+<div class="w3-row w3-padding-64" id="about">
+<div class="w3-col m6 w3-padding-large w3-hide-small">
+    <img src="collagecoffee.jpg" class="w3-round w3-image w3-opacity-min" alt="inspo" width="600" height="750">
+    </div>
+<div class="w3-col m6 w3-padding-large">
+    <h1 class="w3-center">About Famous Fourth</h1><br>
+    <p class="w3-large">Welcome to Famous Fourth: A Tamaraw's Place, situated in the heart of Morayta near Far Eastern University. Beckoning students to step in and embrace the scent of freshly brewed coffee with eye-catching sweets to devour, our café is a cozy haven for students, teachers, or nearby people alike, looking for a place to catch up with friends and do their schoolwork while indulging in a freshly brewed coffee and a sweet treat. 
+    <p class="w3-large w3-text-grey w3-hide-medium">At Famous Fourth, we take in our selection of famous sweet desserts  with a twist, perfectly crafted recipes  through time passed  down by generations, guaranteeing tempting glamour and taste. Indulge your cravings with smooth ensaymada and spanish bread that is hard to resist. Whether you're  taking a  break  from class  or  craving  a quick sip and bite, Famous  Fourth will be your go-to destination that can cater to all your needs, satisfying your stomach and  soul.</p>
+    </div>
+    </div>
+    <hr>
+<div class="w3-row w3-padding-64" id="menu">
+<div class="w3-col l6 w3-padding-large">
+    <h1 class="w3-center">Our Pastries</h1><br>
+    <h4>Ensaymada</h4>
+        <p class="w3-text-grey">₱55.00 per piece | Sweet dough pastry covered with butter and  sugar then topped  with lots of grated cheese.</p><br>
+    <h4>Spanish Bread</h4>
+        <p class="w3-text-grey">₱15.00 per piece | Sweet filling made of  breadcrumbs, butter, and brown sugar.</p><br>
+    <h4>Pancakes</h4>
+        <p class="w3-text-grey">₱165.00 for 3 pieces | A  crisp exterior  and a  soft interior with caramel syrup and butter  at the top.</p><br>
+    <h4>Cookies</h4>
+        <p class="w3-text-grey">₱150.00 for 3 pieces | A slightly crisp outer shell that holds up to some heat with an inner core that's soft and chewy.</p><br>
+    <h4>Blueberry Cheesecake</h4>
+        <p class="w3-text-grey">₱180.00 per slice | With a syrup that drips slowly down the side of the cheesecake as you plough your way through it.</p><br>    
+    <h4>Chocolate Muffin</h4>
+        <p class="w3-text-grey">₱60.00 per piece | With a syrup that drips slowly down the side of the cheesecake as you plough your way through it.</p><br>
+    <h4>Brownies</h4>
+       <p class="w3-text-grey">₱30.00 per piece | Moist, dense and  goooey, with almost the texture of fudge, but not quite as compact.</p><br>  
+    <h4>Chocolate Cake</h4>
+        <p class="w3-text-grey">₱120.00 per slice | Made up of chocolate, cocoa powder, sweeteners, etc.</p><br>   
+    <h4>Croissant</h4>
+        <p class="w3-text-grey">₱55.00 per piece | A buttery, cresent-shaped french pastry..</p><br>  
+    </div>
+<div class="w3-col l6 w3-padding-large">
+    <img src="menu.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%"><br>
+    
+    </div>
+    </div>
+    <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+        <img src="cafe menu.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+    </div>
+    <div class="w3-col l6 w3-padding-large">
+    <h1 class="w3-center">Our Drinks</h1><br>
+    <h4>Dirty Matcha Latte</h4>
+        <p class="w3-text-grey">₱100.00 |  Matcha, milk and coffee. Lightly sweetened Matcha forms the base while milk allows a smooth transition in flavour between Matcha and roasted notes of coffee.</p><br>
+    <h4>Caramel Macchiato</h4>
+        <p class="w3-text-grey">₱95.00 | Combine our rich, full-bodied espresso with vanilla-flavored syrup, milk and ice, then top it off with caramel drizzle for an oh-so-sweet finish.</p><br>
+    <h4>Iced Vanilla Latte</h4>
+        <p class="w3-text-grey">₱95.00 | Rich, full-bodied espresso blended with creamy steamed milk and vanilla syrup.</p><br>
+    <h4>Dark Chocolate</h4>
+        <p class="w3-text-grey">₱100.00 | "illustration"</p><br>
+    <h4>Cappuccino</h4>
+        <p class="w3-text-grey">₱110.00 | "illustration"</p><br>    
+    <h4>Lemon Apricot Sparkling Iced Tea</h4>
+        <p class="w3-text-grey">₱00.00 | "illustration"</p><br>
+    <h4>Lemon Iced Cola</h4>
+        <p class="w3-text-grey">₱00.00 | "illustration"</p><br>  
+    <h4>Orange Jasmine Iced Tea</h4>
+        <p class="w3-text-grey">₱00.00 | "illustration"</p><br>   
+    <h4>DRINK 9</h4>
+        <p class="w3-text-grey">₱00.00 | "illustration"</p><br>  
+    </div>
+</div>
+
+    
+    <hr>
+
+    <div class="w3-container w3-padding-64" id="order">
+    <h1>Place Your Order</h1><br>
+    <form action="/order.php" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br><br>
+        <label for="phone">Phone:</label>
+        <input type="tel" id="phone" name="phone" required><br><br>
+        <label for="address">Address:</label>
+        <input type="text" id="address" name="address" required><br><br>
+
+        <div class="w3-row w3-padding-64" id="menu">
+            <div class="w3-container w3-half">
+                <h1 class="w3-center">Our Pastries</h1><br>
+                <div class="w3-container w3-card">
+                    <h4>Ensaymada</h4>
+                    <p class="w3-text-grey">₱55.00 per piece</p>
+                    <label for="quantity_ensaymada">Quantity:</label>
+                    <input type="number" id="quantity_ensaymada" name="quantity_ensaymada" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Ensaymada', 55, 'quantity_ensaymada')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <!-- Include other pastries -->
+                <div class="w3-container w3-card">
+                    <h4>Spanish Bread</h4>
+                    <p class="w3-text-grey">₱15.00 per piece</p>
+                    <label for="quantity_spanish_bread">Quantity:</label>
+                    <input type="number" id="quantity_spanish_bread" name="quantity_spanish_bread" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Spanish Bread', 15, 'quantity_spanish_bread')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>Pancakes</h4>
+                    <p class="w3-text-grey">₱165.00 for 3 pieces</p>
+                    <label for="quantity_spanish_bread">Quantity:</label>
+                    <input type="number" id="quantity_spanish_bread" name="quantity_spanish_bread" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Spanish Bread', 165, 'quantity_spanish_bread')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>Cookies</h4>
+                    <p class="w3-text-grey">₱150.00 for 3 pieces</p>
+                    <label for="quantity_spanish_bread">Quantity:</label>
+                    <input type="number" id="quantity_spanish_bread" name="quantity_spanish_bread" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Spanish Bread', 150, 'quantity_spanish_bread')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>Blueberry Cheesecake</h4>
+                    <p class="w3-text-grey">₱180.00 per slice</p>
+                    <label for="quantity_spanish_bread">Quantity:</label>
+                    <input type="number" id="quantity_spanish_bread" name="quantity_spanish_bread" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Spanish Bread', 180, 'quantity_spanish_bread')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>Chocolate Muffin</h4>
+                    <p class="w3-text-grey">₱60.00 per piece</p>
+                    <label for="quantity_spanish_bread">Quantity:</label>
+                    <input type="number" id="quantity_spanish_bread" name="quantity_spanish_bread" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Spanish Bread', 60, 'quantity_spanish_bread')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>Brownies</h4>
+                    <p class="w3-text-grey">₱30.00 per piece</p>
+                    <label for="quantity_spanish_bread">Quantity:</label>
+                    <input type="number" id="quantity_spanish_bread" name="quantity_spanish_bread" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Spanish Bread', 30, 'quantity_spanish_bread')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>Chocolate Cake</h4>
+                    <p class="w3-text-grey">₱120.00 per slice</p>
+                    <label for="quantity_spanish_bread">Quantity:</label>
+                    <input type="number" id="quantity_spanish_bread" name="quantity_spanish_bread" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Spanish Bread', 120, 'quantity_spanish_bread')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>Croissant</h4>
+                    <p class="w3-text-grey">₱55.00 per piece</p>
+                    <label for="quantity_spanish_bread">Quantity:</label>
+                    <input type="number" id="quantity_spanish_bread" name="quantity_spanish_bread" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Spanish Bread', 55, 'quantity_spanish_bread')">Add to Cart</button><br><br>
+                </div> <br>
+                
+                <!-- Include other pastries -->
+                <!-- Continue adding pastry containers for each item -->
+            </div>
+
+            <div class="w3-container w3-half">
+                <h1 class="w3-center">Our Drinks</h1><br>
+                <div class="w3-container w3-card">
+                    <h4>Dirty Matcha Latte</h4>
+                    <p class="w3-text-grey">₱100.00</p>
+                    <label for="quantity_matcha">Quantity:</label>
+                    <input type="number" id="quantity_matcha" name="quantity_matcha" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Dirty Matcha Latte', 100, 'quantity_matcha')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <!-- Include other drinks -->
+                <div class="w3-container w3-card">
+                    <h4>Caramel Macchiato</h4>
+                    <p class="w3-text-grey">₱95.00</p>
+                    <label for="quantity_macchiato">Quantity:</label>
+                    <input type="number" id="quantity_macchiato" name="quantity_macchiato" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Caramel Macchiato', 95, 'quantity_macchiato')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>Iced Vanilla Latte</h4>
+                    <p class="w3-text-grey">₱95.00</p>
+                    <label for="quantity_matcha">Quantity:</label>
+                    <input type="number" id="quantity_matcha" name="quantity_matcha" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Dirty Matcha Latte', 95, 'quantity_matcha')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>Dark Chocolate</h4>
+                    <p class="w3-text-grey">₱100.00</p>
+                    <label for="quantity_matcha">Quantity:</label>
+                    <input type="number" id="quantity_matcha" name="quantity_matcha" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Dirty Matcha Latte', 100, 'quantity_matcha')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>Cappuccino</h4>
+                    <p class="w3-text-grey">₱110.00</p>
+                    <label for="quantity_matcha">Quantity:</label>
+                    <input type="number" id="quantity_matcha" name="quantity_matcha" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Dirty Matcha Latte', 110, 'quantity_matcha')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>Lemon Apricot Sparkling Iced Tea</h4>
+                    <p class="w3-text-grey">₱00.00</p>
+                    <label for="quantity_matcha">Quantity:</label>
+                    <input type="number" id="quantity_matcha" name="quantity_matcha" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Dirty Matcha Latte', 00, 'quantity_matcha')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>Lemon Iced Cola</h4>
+                    <p class="w3-text-grey">₱00.00</p>
+                    <label for="quantity_matcha">Quantity:</label>
+                    <input type="number" id="quantity_matcha" name="quantity_matcha" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Dirty Matcha Latte', 00, 'quantity_matcha')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>Orange Jasmine Iced Tea</h4>
+                    <p class="w3-text-grey">₱00.00</p>
+                    <label for="quantity_matcha">Quantity:</label>
+                    <input type="number" id="quantity_matcha" name="quantity_matcha" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Dirty Matcha Latte', 00, 'quantity_matcha')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <div class="w3-container w3-card">
+                    <h4>DRINK</h4>
+                    <p class="w3-text-grey">₱00.00</p>
+                    <label for="quantity_matcha">Quantity:</label>
+                    <input type="number" id="quantity_matcha" name="quantity_matcha" min="0" required><br><br>
+                    <button type="button" onclick="addToCart('Dirty Matcha Latte', 00, 'quantity_matcha')">Add to Cart</button><br><br>
+                </div> <br>
+
+                <!-- Include other drinks -->
+                <!-- Continue adding drink containers for each item -->
+            </div>
+        </div>
+
+        <button type="submit">Place Order</button>
+    </form>
+</div>
+
+<script>
+    // Function to add items to cart
+    function addToCart(itemName, itemPrice, quantityId) {
+        var quantity = document.getElementById(quantityId).value;
+        var total = itemPrice * quantity;
+        // Here you can record the selected item and quantity, for example:
+        console.log("Item: " + itemName + ", Quantity: " + quantity + ", Total: " + total);
+        // You can also add more advanced functionality such as updating a shopping cart UI.
+    }
+</script>
+
+
+
+</div> <br>
+ </div> <br>
+    <div class="w3-container w3-padding-64" id="contact">
+        <!-- Contact Section Content -->
+    </div>
+</div>
+ 
+ <!-- Contact Section -->
+ <div class="w3-container w3-padding-64" id="contact">
+    <h1>Contact</h1><br>
+    <p>We offer full-service catering for any event, large or small. We understand your needs and we will cater the food to satisfy the biggerst criteria of them all, both look and taste. Do not hesitate to contact us.</p>
+    <p class="w3-text-green w3-large"><b>Visit Us  on Physical  Store, N. Reyes St. Sampaloc, Manila near  Far Eastern University.</b></p>
+    <p>You can also contact us by phone 0907-240-9017 or email famousfourth@gmail.com, or you can send us a message here:</p>
+    <form action="/action_page.php" target="_blank">
+    <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
+    <p><input class="w3-input w3-padding-16" type="number" placeholder="How many people" required name="People"></p>
+    <p><input class="w3-input w3-padding-16" type="datetime-local" placeholder="Date and time" required name="date" value="2020-11-16T20:00"></p>
+    <p><input class="w3-input w3-padding-16" type="text" placeholder="Message \ Special requirements" required name="Message"></p>
+    <p><button class="w3-button w3-light-grey w3-section" type="submit">SEND MESSAGE</button></p>
+    </form>
+    </div>
+
+    <script>
+        function calculateTotal() {
+            // Get the quantities and prices of selected items
+            var quantity1 = parseInt(document.getElementById("quantity1").value);
+            var price1 = parseFloat(document.getElementById("price1").value);
+            var quantity2 = parseInt(document.getElementById("quantity2").value);
+            var price2 = parseFloat(document.getElementById("price2").value);
+    
+            // Calculate total amount
+            var total = (quantity1 * price1) + (quantity2 * price2);
+    
+            // Display the total amount
+            document.getElementById("total").value = total.toFixed(2); // toFixed(2) to display two decimal places
+        }
+    </script>     
+     
+    </body>
+    </html>
